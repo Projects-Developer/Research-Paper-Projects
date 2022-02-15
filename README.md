@@ -2,7 +2,7 @@
 
 ## Youtube Video: https://youtu.be/T0wEstYgztU
 
-Top Capstone Projects for students are:
+## Top Capstone Projects for students are:
 <ol>
 
 1.Fake News Detection
@@ -26,6 +26,30 @@ Top Capstone Projects for students are:
 10.Disease prediction system
   </ol>
 
+## (IEEE JOURNAL ) DATA SCIENCE WITH MACHINE LEARNING
+
+<ol>
+1.Bitcoin Price Prediction using Machine Learning
+
+2.Fake news detection in social media
+
+3.Credit fraud detection using machine learning
+
+4.Liver disease detection using Neural Networks and SVM classification
+
+5.Detection of phishing attacks using machine learning algorithm
+
+6.Comparison of machine learning approaches for twitter sentiment analysis
+
+7.Heart Disease Prediction using K-NN algorithm and Logistics regression
+
+8.Personality prediction from real-time tweets using Natural language processing
+
+9.Cricket match outcome prediction using Decision Tree and Random Forest
+
+10.Real estate price prediction using machine learning techniques
+
+</ol>
 For Code, Report, synopsis and PPT of above Projects please mail me.
 
 If you need help on Capstone Projects then contact me-
@@ -38,5 +62,5 @@ If you need help on Capstone Projects then contact me-
 
 💬 Website: cse-projects
 
-### New IEEE Research Project : https://github.com/Vatshayan/Final-Year-Project-Cryptographic-Technique-for-Communication-System
+### New IEEE Research Project : [Click](https://github.com/Vatshayan/Final-Year-Project-Cryptographic-Technique-for-Communication-System)
 ### Projects : https://computerscienceproject.com
